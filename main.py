@@ -8,6 +8,3 @@ for i in range(len(inputs)):
     opc+=op
 output.append(opc+bias)
 print(output)
-
-
-
